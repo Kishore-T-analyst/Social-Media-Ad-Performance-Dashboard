@@ -1,12 +1,12 @@
-# 📊 Social Media Ad Campaign Analysis
+# Social Media Ad Campaign Analysis #
 
-## 📌 Project Overview
+# Project Overview
 
 This project analyzes social media advertising campaigns using **Power BI** to evaluate performance and generate actionable insights. The dashboard helps track key marketing metrics and supports data-driven decision-making.
 
 ---
 
-## 🎯 Objective
+# Objective
 
 The main objective of this project is to:
 
@@ -17,7 +17,7 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Dataset Details
+# Dataset Details
 
 The dataset used in this project includes:
 
@@ -29,7 +29,7 @@ The dataset used in this project includes:
 
 ---
 
-## 🛠 Tools & Technologies
+# Tools & Technologies
 
 * **Power BI** – Data visualization and dashboard creation
 * **Excel / CSV** – Data source
@@ -37,7 +37,7 @@ The dataset used in this project includes:
 
 ---
 
-## 📈 Key Insights
+# Key Insights
 
 * Identified top-performing campaigns based on conversion rate
 * Compared ad spend with ROI to evaluate efficiency
@@ -46,7 +46,7 @@ The dataset used in this project includes:
 
 ---
 
-## 📌 Dashboard Features
+# Dashboard Features
 
 * KPI cards (Impressions, Clicks, Conversions, ROI)
 * Campaign performance comparison
@@ -55,23 +55,23 @@ The dataset used in this project includes:
 
 ---
 
-## 📷 Dashboard Preview
+# Dashboard Preview
 
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/46ab9332-f088-4fef-8ca8-0cdbc5678487" />
 
 
 ---
 
-## 🚀 Conclusion
+# Conclusion
 
 This project demonstrates how data analytics can improve marketing strategies by providing clear insights into campaign performance and helping businesses make informed decisions.
 
 ---
 
- 👤 Author
+# Author
 
 **Kishore**
 📧 Gmail:[kishore9576@gmail.com](mailto:kishore9576@gmail.com)
-🔗 LinkedIn: linkedin.com/in/kishore-kishore76
+🔗 LinkedIn:https://www.linkedin.com/in/kishore-kishore76
 
 ---

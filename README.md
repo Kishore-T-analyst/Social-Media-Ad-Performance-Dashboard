@@ -72,6 +72,6 @@ This project demonstrates how data analytics can improve marketing strategies by
 
 **Kishore**
 📧 Gmail:[kishore9576@gmail.com](mailto:kishore9576@gmail.com)
-🔗 LinkedIn: linkedin.com/in/kishore-kishore76
+🔗 LinkedIn: https://www.linkedin.com/in/kishore-kishore76
 
 ---
